@@ -61,10 +61,6 @@ python qabot.py
 
 Then open your browser and go to `http://localhost:7860` to interact with the QA bot.
 
-## Estimated Completion Time
-
-~30 minutes
-
 ## Learning Outcomes
 
 By completing this project, you will be able to:
